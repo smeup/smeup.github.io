@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.smeup.sys.ft.runt.e4_0.7.0.201506091610.jar" id="org.smeup.sys.ft.runt.e4" version="0.7.0.201506091610">
+      <category name="p2.site.runt"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.base_0.7.0.201506091610.jar" id="org.smeup.sys.ft.devk.base" version="0.7.0.201506091610">
+      <category name="p2.site.devk"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.lang.base_0.7.0.201506091610.jar" id="org.smeup.sys.ft.lang.base" version="0.7.0.201506091610">
+      <category name="p2.site.lang"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.epdm.e4_0.7.0.201506091610.jar" id="org.smeup.sys.ft.epdm.e4" version="0.7.0.201506091610">
+      <category name="p2.site.epdm"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.e4_0.7.0.201506091610.jar" id="org.smeup.sys.ft.devk.e4" version="0.7.0.201506091610">
+      <category name="p2.site.devk"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.base_0.7.0.201506091610.jar" id="org.smeup.sys.ft.dbms.base" version="0.7.0.201506091610">
+      <category name="p2.site.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.db2_0.7.0.201506091610.jar" id="org.smeup.sys.ft.dbms.db2" version="0.7.0.201506091610">
+      <category name="p2.site.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.ibmi_0.7.0.201506091610.jar" id="org.smeup.sys.ft.dbms.ibmi" version="0.7.0.201506091610">
+      <category name="p2.site.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.jtds_0.7.0.201506091610.jar" id="org.smeup.sys.ft.dbms.jtds" version="0.7.0.201506091610">
+      <category name="p2.site.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.mssql_0.7.0.201506091610.jar" id="org.smeup.sys.ft.dbms.mssql" version="0.7.0.201506091610">
+      <category name="p2.site.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.mysql_0.7.0.201506091610.jar" id="org.smeup.sys.ft.dbms.mysql" version="0.7.0.201506091610">
+      <category name="p2.site.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.netc.base_0.7.0.201506091610.jar" id="org.smeup.sys.ft.netc.base" version="0.7.0.201506091610">
+      <category name="p2.site.netc"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.lang.test_0.7.0.201506091610.jar" id="org.smeup.sys.ft.lang.test" version="0.7.0.201506091610">
+      <category name="p2.site.lang"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.runt.test_0.7.0.201506091610.jar" id="org.smeup.sys.ft.runt.test" version="0.7.0.201506091610">
+      <category name="p2.site.runt"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.test_0.7.0.201506091610.jar" id="org.smeup.sys.ft.devk.test" version="0.7.0.201506091610">
+      <category name="p2.site.devk"/>
+   </feature>
+   <category-def name="p2.site.lang" label="Language"/>
+   <category-def name="p2.site.runt" label="Runtime"/>
+   <category-def name="p2.site.dbms" label="Database"/>
+   <category-def name="p2.site.netc" label="Communication"/>
+   <category-def name="p2.site.devk" label="Development Kit"/>
+   <category-def name="p2.site.epdm" label="Extended PDM"/>
+</site>
