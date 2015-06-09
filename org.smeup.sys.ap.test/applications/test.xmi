@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ASCII"?>
+<rt-core:Application
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:co-core="http://www.smeup.org/asup/co/core"
+    xmlns:rt-core="http://www.smeup.org/asup/rt/core"
+    xsi:schemaLocation="http://www.smeup.org/asup/co/core ../../org.smeup.sys.co.core/model/co-core.ecore http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore"
+    text="Language Tester">
+
+    <components
+        name="Language">
+      <modules
+          href="../modules/lang-base.xmi#lang.base"/>
+    </components>
+    <components
+        name="Development">
+      <modules
+          href="../modules/devk-base.xmi#devk.base"/>
+      <modules
+          href="../modules/devk-e4.xmi#devk.e4"/>
+    </components>
+    <components
+        name="Runtime">
+      <modules
+          href="../modules/runt-e4.xmi#runt.e4"/>
+    </components>
+    <components
+        name="Communication">
+      <configs
+          xsi:type="co-core:ServerSocketConfig"
+          address="0.0.0.0"
+          port="8023"/>
+      <hooks
+          className="org.smeup.sys.co.shell.base.BaseShellServerSocketImpl"
+          interfaceName="org.smeup.sys.co.core.QServerSocket"/>
+      <modules
+          href="../modules/netc-base.xmi#netc.base"/>
+    </components>
+    <components
+        name="Test">
+      <modules
+          href="../modules/lang-test.xmi#lang.test"/>
+      <modules
+          href="../modules/devk-test.xmi#devk.test"/>
+      <modules
+          href="../modules/runt-test.xmi#runt.test"/>
+    </components>
+</rt-core:Application>

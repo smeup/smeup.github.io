@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ASCII"?>
+<rt-core:ApplicationModule
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:rt-core="http://www.smeup.org/asup/rt/core"
+    xsi:schemaLocation="http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore"
+    name="devk.test">
+  <services
+      className="org.smeup.sys.dk.test.base.BaseTestAuthenticationManagerImpl"
+      interfaceName="org.smeup.sys.rt.core.auth.QAuthenticationManager"/>
+  <services
+      className="org.smeup.sys.dk.test.base.BaseTestShellManagerImpl"
+      interfaceName="org.smeup.sys.co.shell.QShellManager"/>
+  <services
+      className="org.smeup.sys.dk.test.test.DevelopmentKitTestTestProviderImpl"
+      interfaceName="org.eclipse.osgi.framework.console.CommandProvider"/>
+  <services
+      className="org.smeup.sys.dk.source.test.DevelopmentKitSourceTestProviderImpl"
+      interfaceName="org.eclipse.osgi.framework.console.CommandProvider"/>
+</rt-core:ApplicationModule>
