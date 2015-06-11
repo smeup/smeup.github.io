@@ -7,6 +7,6 @@
     xsi:schemaLocation="http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore"
     name="devk.e4">
   <services
-      className="org.smeup.sys.dk.source.e4.E4SourceManagerImpl"
+      className="org.smeup.sys.dk.source.jdt.JDTSourceManagerImpl"
       interfaceName="org.smeup.sys.dk.source.QSourceManager"/>
 </rt-core:ApplicationModule>

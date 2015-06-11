@@ -18,7 +18,7 @@
       <modules
           href="../modules/devk-base.xmi#devk.base"/>
       <modules
-          href="../modules/devk-e4.xmi#devk.e4"/>
+          href="../modules/devk-jdt.xmi#devk.e4"/>
     </components>
     <components
         name="Runtime">
