@@ -39,7 +39,7 @@
    <feature url="features/org.smeup.sys.ft.lang.test_0.7.0.201506111829.jar" id="org.smeup.sys.ft.lang.test" version="0.7.0.201506111829">
       <category name="p2.site.lang"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.runt.test_0.7.0.201506111829.jar" id="org.smeup.sys.ft.runt.test" version="0.7.0.201506111829">
+   <feature url="features/org.smeup.sys.ft.runt.test_0.7.0.201506111853.jar" id="org.smeup.sys.ft.runt.test" version="0.7.0.201506111853">
       <category name="p2.site.runt"/>
    </feature>
    <feature url="features/org.smeup.sys.ft.devk.test_0.7.0.201506111829.jar" id="org.smeup.sys.ft.devk.test" version="0.7.0.201506111829">
