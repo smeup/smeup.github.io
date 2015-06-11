@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<rt-core:ApplicationModule
-    xmi:version="2.0"
-    xmlns:xmi="http://www.omg.org/XMI"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:rt-core="http://www.smeup.org/asup/rt/core"
-    xsi:schemaLocation="http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore"
-    name="netc.base">
-  <services
-      className="org.smeup.sys.co.shell.base.BaseShellOutputWrapperImpl"
-      interfaceName="org.smeup.sys.co.shell.QShellOutputWrapper"/>
-  <services
-      xsi:type="rt-core:ServicePlugin"
-      className="org.smeup.sys.co.shell.base.BaseShellObjectWriterFactoryImpl"
-      interfaceName="org.smeup.sys.il.core.out.QObjectWriterFactory"
-      name="SHELL"
-      text="Shell Object Writer"
-      version="0.7.0"
-      vendor="www.smeup.com"/>
+<rt-core:ApplicationModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rt-core="http://www.smeup.org/asup/rt/core" xsi:schemaLocation="http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore" name="netc.base">
+  <services className="org.smeup.sys.co.shell.base.BaseShellOutputWrapperImpl" interfaceName="org.smeup.sys.co.shell.QShellOutputWrapper"/>
+  <services xsi:type="rt-core:ServicePlugin" className="org.smeup.sys.co.shell.base.BaseShellObjectWriterFactoryImpl" interfaceName="org.smeup.sys.il.core.out.QObjectWriterFactory" name="SHELL" text="Shell Object Writer" version="0.7.0" vendor="www.smeup.com"/>
 </rt-core:ApplicationModule>

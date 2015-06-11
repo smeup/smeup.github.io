@@ -1,49 +1,12 @@
 <?xml version="1.0" encoding="ASCII"?>
-<rt-core:ApplicationModule
-    xmi:version="2.0"
-    xmlns:xmi="http://www.omg.org/XMI"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:rt-core="http://www.smeup.org/asup/rt/core"
-    xsi:schemaLocation="http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore"
-    name="lang.base">
-  <services
-      className="org.smeup.sys.il.core.e4.E4PluginRegistryFactoryImpl"
-      interfaceName="org.smeup.sys.il.core.ctx.QPluginRegistryFactory"/>
-  <services
-      className="org.smeup.sys.il.core.meta.e4.E4FrameManagerImpl"
-      interfaceName="org.smeup.sys.il.core.meta.QFrameManager"/>
-  <services
-      className="org.smeup.sys.il.core.base.BaseObjectWriterFactoryRegistryImpl"
-      interfaceName="org.smeup.sys.il.core.out.QObjectWriterFactoryRegistry"/>
-  <services
-      className="org.smeup.sys.il.data.nio.NIODataManagerImpl"
-      interfaceName="org.smeup.sys.il.data.QDataManager"/>
-  <services
-      className="org.smeup.sys.il.expr.base.BaseExpressionParserRegistryImpl"
-      interfaceName="org.smeup.sys.il.expr.QExpressionParserRegistry">
-    <services
-        xsi:type="rt-core:ServicePlugin"
-        className="org.smeup.sys.il.expr.ibmi.rpg.RPGExpressionParserImpl"
-        interfaceName="org.smeup.sys.il.expr.QExpressionParser"
-        name="RPG"
-        text="RPG Expression Parser"
-        version="0.7.0"
-        vendor="www.smeup.com"/>
-    <services
-        xsi:type="rt-core:ServicePlugin"
-        className="org.smeup.sys.il.expr.ibmi.cl.CLExpressionParserImpl"
-        interfaceName="org.smeup.sys.il.expr.QExpressionParser"
-        name="ASUP"
-        text="As.UP Expression Parser"
-        version="0.7.0"
-        vendor="www.smeup.com"/>
-    <services
-        xsi:type="rt-core:ServicePlugin"
-        className="org.smeup.sys.il.expr.ibmi.cl.CLExpressionParserImpl"
-        interfaceName="org.smeup.sys.il.expr.QExpressionParser"
-        name="CL"
-        text="CL Expression Parser"
-        version="0.7.0"
-        vendor="www.smeup.com"/>
+<rt-core:ApplicationModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rt-core="http://www.smeup.org/asup/rt/core" xsi:schemaLocation="http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore" name="lang.base">
+  <services className="org.smeup.sys.il.core.e4.E4PluginRegistryFactoryImpl" interfaceName="org.smeup.sys.il.core.ctx.QPluginRegistryFactory"/>
+  <services className="org.smeup.sys.il.core.meta.e4.E4FrameManagerImpl" interfaceName="org.smeup.sys.il.core.meta.QFrameManager"/>
+  <services className="org.smeup.sys.il.core.base.BaseObjectWriterFactoryRegistryImpl" interfaceName="org.smeup.sys.il.core.out.QObjectWriterFactoryRegistry"/>
+  <services className="org.smeup.sys.il.data.nio.NIODataManagerImpl" interfaceName="org.smeup.sys.il.data.QDataManager"/>
+  <services className="org.smeup.sys.il.expr.base.BaseExpressionParserRegistryImpl" interfaceName="org.smeup.sys.il.expr.QExpressionParserRegistry">
+    <services xsi:type="rt-core:ServicePlugin" className="org.smeup.sys.il.expr.ibmi.rpg.RPGExpressionParserImpl" interfaceName="org.smeup.sys.il.expr.QExpressionParser" name="RPG" text="RPG Expression Parser" version="0.7.0" vendor="www.smeup.com"/>
+    <services xsi:type="rt-core:ServicePlugin" className="org.smeup.sys.il.expr.ibmi.cl.CLExpressionParserImpl" interfaceName="org.smeup.sys.il.expr.QExpressionParser" name="ASUP" text="As.UP Expression Parser" version="0.7.0" vendor="www.smeup.com"/>
+    <services xsi:type="rt-core:ServicePlugin" className="org.smeup.sys.il.expr.ibmi.cl.CLExpressionParserImpl" interfaceName="org.smeup.sys.il.expr.QExpressionParser" name="CL" text="CL Expression Parser" version="0.7.0" vendor="www.smeup.com"/>
   </services>
 </rt-core:ApplicationModule>
