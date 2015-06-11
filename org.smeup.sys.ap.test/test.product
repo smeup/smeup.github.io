@@ -44,6 +44,7 @@
       <feature id="org.smeup.sys.ft.eclipse"/>
       <feature id="org.smeup.sys.ft.equinox"/>
       <feature id="org.smeup.sys.ft.equinox.p2"/>
+      <feature id="org.smeup.sys.ft.eclipse.ecf"/>
    </features>
 
 
