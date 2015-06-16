@@ -13,6 +13,11 @@
         href="../modules/lang-base.xmi#lang.base"/>
   </components>
   <components
+      name="Database">
+    <modules
+        href="../modules/dbms-base.xmi#dbms.base"/>
+  </components>
+  <components
       name="Development">
     <modules
         href="../modules/devk-base.xmi#devk.base"/>
@@ -39,6 +44,11 @@
       name="System">
     <modules
         href="../modules/oper-e4.xmi#oper.e4"/>
+  </components>
+  <components
+      name="Types">
+    <modules
+        href="../modules/type-base.xmi#type.base"/>
   </components>
   <components
       name="Test">

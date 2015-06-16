@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<rt-core:ApplicationModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rt-core="http://www.smeup.org/asup/rt/core" xsi:schemaLocation="http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore" name="type.base">
+  <services className="org.smeup.sys.os.core.base.BaseBundleListener" interfaceName="org.eclipse.osgi.framework.console.CommandProvider"/>
+  <services xsi:type="rt-core:ServicePlugin" className="org.smeup.sys.os.lib.base.BaseLibraryManagerImpl" interfaceName="org.smeup.sys.os.lib.QLibraryManager" name="*LIB" text="Library" version="0.7.0" vendor="www.smeup.com"/>
+  <services xsi:type="rt-core:ServicePlugin" className="org.smeup.sys.os.usrprf.base.BaseUserProfileManagerImpl" interfaceName="org.smeup.sys.os.usrprf.QUserProfileManager" name="*USRPRF" text="UserProfile" version="0.7.0" vendor="www.smeup.com"/>
+  <services xsi:type="rt-core:ServicePlugin" className="org.smeup.sys.os.pgm.base.BaseProgramManagerImpl" interfaceName="org.smeup.sys.os.pgm.QProgramManager" name="*PGM" text="Command" version="0.7.0" vendor="www.smeup.com">
+    <services className="org.smeup.sys.os.pgm.base.BaseActivationGroupManagerImpl" interfaceName="org.smeup.sys.os.pgm.QActivationGroupManager"/>
+  </services>
+  <services xsi:type="rt-core:ServicePlugin" className="org.smeup.sys.os.cmd.ibmi.IBMiCommandManagerImpl" interfaceName="org.smeup.sys.os.cmd.QCommandManager" name="*CMD" text="Command" version="0.7.0" vendor="www.smeup.com"/>
+</rt-core:ApplicationModule>
