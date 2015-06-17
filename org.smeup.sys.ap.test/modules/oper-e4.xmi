@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<rt-core:ApplicationModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rt-core="http://www.smeup.org/asup/rt/core" xsi:schemaLocation="http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore" name="oper.e4">
+<rt-core:ApplicationModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:rt-core="http://www.smeup.org/asup/rt/core" name="oper.e4">
   <services className="org.smeup.sys.os.core.base.BaseResourceManagerImpl" interfaceName="org.smeup.sys.os.core.resources.QResourceManager"/>
   <services className="org.smeup.sys.os.core.jdt.JDTResourceProviderImpl" interfaceName="org.smeup.sys.os.core.resources.QResourceProvider"/>
   <services className="org.smeup.sys.os.core.e4.E4SystemManagerImpl" interfaceName="org.smeup.sys.os.core.QSystemManager"/>
