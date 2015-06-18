@@ -12,8 +12,7 @@
       </programArgs>
       <vmArgs>-Dosgi.console
 -Dosgi.clean
--Dosgi.requiredJavaVersion=1.7 
--Dosgi.noShutdown=true
+-Dosgi.requiredJavaVersion=1.7
       </vmArgs>
       <vmArgsMac>-XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts
       </vmArgsMac>
