@@ -48,7 +48,7 @@
    <feature url="features/org.smeup.sys.ft.oper.e4_0.7.0.201506181515.jar" id="org.smeup.sys.ft.oper.e4" version="0.7.0.201506181515">
       <category name="p2.site.oper"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.epdm.e4_0.7.0.201506191053.jar" id="org.smeup.sys.ft.epdm.e4" version="0.7.0.201506191053">
+   <feature url="features/org.smeup.sys.ft.epdm.e4_0.7.0.201506191305.jar" id="org.smeup.sys.ft.epdm.e4" version="0.7.0.201506191305">
       <category name="p2.site.epdm"/>
    </feature>
    <category-def name="p2.site.lang" label="Language"/>
