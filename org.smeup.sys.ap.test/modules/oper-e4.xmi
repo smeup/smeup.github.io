@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="ASCII"?>
-<rt-core:ApplicationModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:rt-core="http://www.smeup.org/asup/rt/core" name="oper.e4">
-  <services className="org.smeup.sys.os.core.base.BaseResourceManagerImpl" interfaceName="org.smeup.sys.os.core.resources.QResourceManager"/>
-  <services className="org.smeup.sys.os.core.jdt.JDTResourceProviderImpl" interfaceName="org.smeup.sys.os.core.resources.QResourceProvider"/>
-  <services className="org.smeup.sys.os.core.e4.E4SystemManagerImpl" interfaceName="org.smeup.sys.os.core.QSystemManager"/>
-  <services className="org.smeup.sys.os.core.e4.E4JobManagerImpl" interfaceName="org.smeup.sys.os.core.jobs.QJobManager" remoteExport="true"/>
-  <services className="org.smeup.sys.os.core.base.BaseJobLogManagerImpl" interfaceName="org.smeup.sys.os.core.jobs.QJobLogManager">
-    <services className="org.smeup.sys.os.core.base.BaseBundleManagerImpl" interfaceName="org.smeup.sys.rt.core.QBundleManager"/>
-  </services>
+<rt-core:ApplicationModule
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:rt-core="http://www.smeup.org/asup/rt/core"
+    name="oper.e4">
+  <services
+      className="org.smeup.sys.os.core.base.BaseResourceManagerImpl"
+      interfaceName="org.smeup.sys.os.core.resources.QResourceManager"/>
+  <services
+      className="org.smeup.sys.os.core.jdt.JDTResourceProviderImpl"
+      interfaceName="org.smeup.sys.os.core.resources.QResourceProvider"/>
+  <services
+      className="org.smeup.sys.os.core.e4.E4SystemManagerImpl"
+      interfaceName="org.smeup.sys.os.core.QSystemManager"/>
+  <services
+      className="org.smeup.sys.os.core.e4.E4JobManagerImpl"
+      interfaceName="org.smeup.sys.os.core.jobs.QJobManager"
+      remoteExport="true"/>
+  <services
+      className="org.smeup.sys.os.core.base.BaseJobLogManagerImpl"
+      interfaceName="org.smeup.sys.os.core.jobs.QJobLogManager"/>
+  <services
+      className="org.smeup.sys.os.core.base.BaseBundleManagerImpl"
+      interfaceName="org.smeup.sys.rt.core.QBundleManager"/>
 </rt-core:ApplicationModule>
