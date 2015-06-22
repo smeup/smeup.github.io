@@ -8,7 +8,7 @@
 
    <launcherArgs>
       <programArgs>-console 
--asupConfig ${resource_loc:/org.smeup.sys.ap.test/applications/test.xmi}
+-asupConfig ${resource_loc:/org.smeup.sys.ap.test/applications/testflux.xmi}
       </programArgs>
       <vmArgs>-Dosgi.console
 -Dosgi.clean
