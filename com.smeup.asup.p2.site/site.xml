@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201506231227.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201506231227">
+   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201506231231.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201506231231">
       <category name="com.smeup.asup.p2.site.devk.grammars"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201506231227.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201506231227">
+   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201506231231.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201506231231">
       <category name="com.smeup.asup.p2.site.devk.grammars"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.devk.emf_0.7.0.201506231227.jar" id="org.smeup.sys.ft.devk.emf" version="0.7.0.201506231227">
-      <category name="com.smeup.asup.p2.site.devk.modeling"/>
+   <feature url="features/org.smeup.sys.ft.devk.emf_0.7.0.201506231231.jar" id="org.smeup.sys.ft.devk.emf" version="0.7.0.201506231231">
+      <category name="com.smeup.asup.p2.site.devk.core"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.dtp_0.7.0.201506231231.jar" id="org.smeup.sys.ft.eclipse.dtp" version="0.7.0.201506231231">
+      <category name="com.smeup.asup.p2.site.devk.core"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.ecf_0.7.0.201506231231.jar" id="org.smeup.sys.ft.eclipse.ecf" version="0.7.0.201506231231">
+      <category name="com.smeup.asup.p2.site.devk.core"/>
    </feature>
    <category-def name="com.smeup.asup.p2.site.devk.grammars" label="As.UP DevelopmentKit Grammars"/>
-   <category-def name="com.smeup.asup.p2.site.devk.modeling" label="As.UP DevelopmentKit Modeling"/>
+   <category-def name="com.smeup.asup.p2.site.devk.core" label="As.UP DevelopmentKit Core"/>
 </site>
