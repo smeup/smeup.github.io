@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201506231208.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201506231208">
+      <category name="com.smeup.asup.p2.site.devk.ide"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201506231208.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201506231208">
+      <category name="com.smeup.asup.p2.site.devk.ide"/>
+   </feature>
+   <category-def name="com.smeup.asup.p2.site.devk.ide" label="As.UP DevelopmentKit IDE"/>
+</site>
