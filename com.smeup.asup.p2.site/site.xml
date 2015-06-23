@@ -9,10 +9,10 @@
    <feature url="features/org.smeup.sys.ft.devk.emf_0.7.0.201506231549.jar" id="org.smeup.sys.ft.devk.emf" version="0.7.0.201506231549">
       <category name="com.smeup.asup.p2.site.devk.core"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.dtp_0.7.0.201506231547.jar" id="org.smeup.sys.ft.eclipse.dtp" version="0.7.0.201506231547">
+   <feature url="features/org.smeup.sys.ft.eclipse.dtp_0.7.0.201506231547.jar" id="org.smeup.sys.ft.eclipse.dtp" version="0.7.0.201506231549">
       <category name="com.smeup.asup.p2.site.devk.core"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.ecf_0.7.0.201506231547.jar" id="org.smeup.sys.ft.eclipse.ecf" version="0.7.0.201506231547">
+   <feature url="features/org.smeup.sys.ft.eclipse.ecf_0.7.0.201506231547.jar" id="org.smeup.sys.ft.eclipse.ecf" version="0.7.0.201506231549">
       <category name="com.smeup.asup.p2.site.devk.core"/>
    </feature>
    <feature url="features/com.smeup.erp.ft.base_0.7.0.201506231549.jar" id="com.smeup.erp.ft.base" version="0.7.0.201506231549">
