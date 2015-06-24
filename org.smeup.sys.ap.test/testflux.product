@@ -50,7 +50,7 @@
       <feature id="org.smeup.sys.ft.equinox"/>
       <feature id="org.smeup.sys.ft.equinox.p2"/>
       <feature id="org.smeup.sys.ft.eclipse.ecf"/>
-      <feature id="org.asup.ft.connector.flux" version="0.7.0.qualifier"/>
+      <feature id="org.smeup.sys.ft.netc.flux"/>
    </features>
 
 
