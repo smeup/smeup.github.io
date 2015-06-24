@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201506241516.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201506241516">
+      <category name="Flux"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.dtp_0.7.0.201506241516.jar" id="org.smeup.sys.ft.eclipse.dtp" version="0.7.0.201506241516">
+      <category name="DTP"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.ecf_0.7.0.201506241516.jar" id="org.smeup.sys.ft.eclipse.ecf" version="0.7.0.201506241516">
+      <category name="ECF"/>
+   </feature>
+   <category-def name="Flux" label="Plux plugins"/>
+   <category-def name="DTP" label="DTP plugins"/>
+   <category-def name="ECF" label="ECF plugins"/>
+</site>
