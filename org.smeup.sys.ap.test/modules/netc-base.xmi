@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="ASCII"?>
 <rt-core:ApplicationModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rt-core="http://www.smeup.org/asup/rt/core" name="netc.base">
   <services className="org.smeup.sys.co.shell.base.BaseShellOutputWrapperImpl" interfaceName="org.smeup.sys.co.shell.QShellOutputWrapper"/>
-  <services xsi:type="rt-core:ServicePlugin" className="org.smeup.sys.co.shell.base.BaseShellObjectWriterFactoryImpl" interfaceName="org.smeup.sys.il.core.out.QObjectWriterFactory" name="S" text="Shell Object Writer" version="0.7.0" vendor="www.smeup.com"/>
+  <services xsi:type="rt-core:ServiceRef" className="org.smeup.sys.co.shell.base.BaseShellObjectWriterFactoryImpl" interfaceName="org.smeup.sys.il.core.out.QObjectWriterFactory">
+  <facets xsi:type="rt-core:Plugin" name="S" text="Shell Object Writer" version="0.7.0" vendor="www.smeup.com"/>
+  </services>
 </rt-core:ApplicationModule>
