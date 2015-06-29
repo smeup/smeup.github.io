@@ -100,15 +100,15 @@
    <feature url="features/org.smeup.sys.ft.equinox.p2_0.7.0.201506291102.jar" id="org.smeup.sys.ft.equinox.p2" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.tool"/>
    </feature>
+   <category-def name="com.smeup.asup.p2.site.tool" label="External Tool"/>
    <category-def name="com.smeup.asup.p2.site.devk.grammars" label="As.UP DevelopmentKit Grammars"/>
    <category-def name="com.smeup.asup.p2.site.devk.core" label="As.UP DevelopmentKit Core"/>
    <category-def name="com.smeup.asup.p2.site.devk.plugins" label="As.UP DevelopmentKit Plugins"/>
-   <category-def name="com.smeup.asup.p2.site.smeup" label="Sme.UP Multiplatform"/>
-   <category-def name="com.smeup.asup.p2.site.dbms" label="As.UP Database"/>
    <category-def name="com.smeup.asup.p2.site.lang" label="As.UP Language"/>
+   <category-def name="com.smeup.asup.p2.site.runt" label="As.UP Runtime"/>
+   <category-def name="com.smeup.asup.p2.site.dbms" label="As.UP Database"/>
    <category-def name="com.smeup.asup.p2.site.netc" label="As.UP Network Communication"/>
    <category-def name="com.smeup.asup.p2.site.oper" label="As.UP Operating System"/>
-   <category-def name="com.smeup.asup.p2.site.runt" label="As.UP Runtime"/>
    <category-def name="com.smeup.asup.p2.site.comp" label="As.UP Compiler"/>
-   <category-def name="com.smeup.asup.p2.site.tool" label="External Tool"/>
+   <category-def name="com.smeup.asup.p2.site.smeup" label="Sme.UP Multiplatform"/>   
 </site>
