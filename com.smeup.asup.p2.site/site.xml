@@ -1,94 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201506291046.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201506291102.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.devk.grammars"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201506291046.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201506291102.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.devk.grammars"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.devk.emf_0.7.0.201506291046.jar" id="org.smeup.sys.ft.devk.emf" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.devk.emf_0.7.0.201506291102.jar" id="org.smeup.sys.ft.devk.emf" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.devk.core"/>
+      <category name="com.smeup.asup.p2.site.devk.plugins"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.dtp_0.7.0.201506291046.jar" id="org.smeup.sys.ft.eclipse.dtp" version="0.7.0.201506291046">
-      <category name="com.smeup.asup.p2.site.devk.core"/>
-   </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.ecf_0.7.0.201506291046.jar" id="org.smeup.sys.ft.eclipse.ecf" version="0.7.0.201506291046">
-      <category name="com.smeup.asup.p2.site.devk.core"/>
-   </feature>
-   <feature url="features/com.smeup.erp.ft.base_0.7.0.201506291046.jar" id="com.smeup.erp.ft.base" version="0.7.0.201506291046">
+   <feature url="features/com.smeup.erp.ft.base_0.7.0.201506291102.jar" id="com.smeup.erp.ft.base" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.smeup"/>
    </feature>
-   <feature url="features/com.smeup.erp.ft.conv_0.7.0.201506291046.jar" id="com.smeup.erp.ft.conv" version="0.7.0.201506291046">
+   <feature url="features/com.smeup.erp.ft.conv_0.7.0.201506291102.jar" id="com.smeup.erp.ft.conv" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.smeup"/>
    </feature>
-   <feature url="features/com.smeup.erp.ft.impo_0.7.0.201506291046.jar" id="com.smeup.erp.ft.impo" version="0.7.0.201506291046">
+   <feature url="features/com.smeup.erp.ft.impo_0.7.0.201506291102.jar" id="com.smeup.erp.ft.impo" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.smeup"/>
    </feature>
-   <feature url="features/com.smeup.erp.ft.looc_0.7.0.201506291046.jar" id="com.smeup.erp.ft.looc" version="0.7.0.201506291046">
+   <feature url="features/com.smeup.erp.ft.looc_0.7.0.201506291102.jar" id="com.smeup.erp.ft.looc" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.smeup"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.dbms.base_0.7.0.201506291046.jar" id="org.smeup.sys.ft.dbms.base" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.dbms.base_0.7.0.201506291102.jar" id="org.smeup.sys.ft.dbms.base" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.dbms"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.dbms.db2_0.7.0.201506291046.jar" id="org.smeup.sys.ft.dbms.db2" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.dbms.db2_0.7.0.201506291102.jar" id="org.smeup.sys.ft.dbms.db2" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.dbms"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.dbms.ibmi_0.7.0.201506291046.jar" id="org.smeup.sys.ft.dbms.ibmi" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.dbms.ibmi_0.7.0.201506291102.jar" id="org.smeup.sys.ft.dbms.ibmi" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.dbms"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.dbms.jtds_0.7.0.201506291046.jar" id="org.smeup.sys.ft.dbms.jtds" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.dbms.jtds_0.7.0.201506291102.jar" id="org.smeup.sys.ft.dbms.jtds" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.dbms"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.dbms.mssql_0.7.0.201506291046.jar" id="org.smeup.sys.ft.dbms.mssql" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.dbms.mssql_0.7.0.201506291102.jar" id="org.smeup.sys.ft.dbms.mssql" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.dbms"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.dbms.mysql_0.7.0.201506291046.jar" id="org.smeup.sys.ft.dbms.mysql" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.dbms.mysql_0.7.0.201506291102.jar" id="org.smeup.sys.ft.dbms.mysql" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.dbms"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.lang.base_0.7.0.201506291046.jar" id="org.smeup.sys.ft.lang.base" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.lang.base_0.7.0.201506291102.jar" id="org.smeup.sys.ft.lang.base" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.lang"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.lang.test_0.7.0.201506291046.jar" id="org.smeup.sys.ft.lang.test" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.lang.test_0.7.0.201506291102.jar" id="org.smeup.sys.ft.lang.test" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.lang"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.netc.base_0.7.0.201506291046.jar" id="org.smeup.sys.ft.netc.base" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.netc.base_0.7.0.201506291102.jar" id="org.smeup.sys.ft.netc.base" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.netc"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.oper.base_0.7.0.201506291046.jar" id="org.smeup.sys.ft.oper.base" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.oper.base_0.7.0.201506291102.jar" id="org.smeup.sys.ft.oper.base" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.oper"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.oper.e4_0.7.0.201506291046.jar" id="org.smeup.sys.ft.oper.e4" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.oper.e4_0.7.0.201506291102.jar" id="org.smeup.sys.ft.oper.e4" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.oper"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.type.base_0.7.0.201506291046.jar" id="org.smeup.sys.ft.type.base" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.type.base_0.7.0.201506291102.jar" id="org.smeup.sys.ft.type.base" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.oper"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.runt.e4_0.7.0.201506291046.jar" id="org.smeup.sys.ft.runt.e4" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.runt.e4_0.7.0.201506291102.jar" id="org.smeup.sys.ft.runt.e4" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.runt"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.runt.test_0.7.0.201506291046.jar" id="org.smeup.sys.ft.runt.test" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.runt.test_0.7.0.201506291102.jar" id="org.smeup.sys.ft.runt.test" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.runt"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.comp.base_0.7.0.201506291046.jar" id="org.smeup.sys.ft.comp.base" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.comp.base_0.7.0.201506291102.jar" id="org.smeup.sys.ft.comp.base" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.comp"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.comp.ibmi_0.7.0.201506291046.jar" id="org.smeup.sys.ft.comp.ibmi" version="0.7.0.201506291046">
+   <feature url="features/org.smeup.sys.ft.comp.ibmi_0.7.0.201506291102.jar" id="org.smeup.sys.ft.comp.ibmi" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.comp"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.dtp_0.7.0.201506231612.jar" id="org.smeup.sys.ft.eclipse.dtp" version="0.7.0.201506231612">
-      <category name="com.smeup.asup.p2.site.devk.plugins"/>
-   </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.ecf_0.7.0.201506231612.jar" id="org.smeup.sys.ft.eclipse.ecf" version="0.7.0.201506231612">
-      <category name="com.smeup.asup.p2.site.devk.plugins"/>
-   </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.net4j_0.7.0.201506291046.jar" id="org.smeup.sys.ft.eclipse.net4j" version="0.7.0.201506291046">
-      <category name="com.smeup.asup.p2.site.devk.plugins"/>
-   </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201506291046.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201506291046">
-      <category name="com.smeup.asup.p2.site.devk.plugins"/>
-   </feature>
-   <feature url="features/com.smeup.erp.ft.runt_0.7.0.201506291046.jar" id="com.smeup.erp.ft.runt" version="0.7.0.201506291046">
+   <feature url="features/com.smeup.erp.ft.runt_0.7.0.201506291102.jar" id="com.smeup.erp.ft.runt" version="0.7.0.201506291102">
       <category name="com.smeup.asup.p2.site.smeup"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse_0.7.0.201506291102.jar" id="org.smeup.sys.ft.eclipse" version="0.7.0.201506291102">
+      <category name="com.smeup.asup.p2.site.tool"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.jdt_0.7.0.201506291102.jar" id="org.smeup.sys.ft.eclipse.jdt" version="0.7.0.201506291102">
+      <category name="com.smeup.asup.p2.site.tool"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.jetty_0.7.0.201506291102.jar" id="org.smeup.sys.ft.eclipse.jetty" version="0.7.0.201506291102">
+      <category name="com.smeup.asup.p2.site.tool"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.dtp_0.7.0.201506291102.jar" id="org.smeup.sys.ft.eclipse.dtp" version="0.7.0.201506291102">
+      <category name="com.smeup.asup.p2.site.tool"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.ecf_0.7.0.201506291102.jar" id="org.smeup.sys.ft.eclipse.ecf" version="0.7.0.201506291102">
+      <category name="com.smeup.asup.p2.site.tool"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201506291102.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201506291102">
+      <category name="com.smeup.asup.p2.site.tool"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.net4j_0.7.0.201506291102.jar" id="org.smeup.sys.ft.eclipse.net4j" version="0.7.0.201506291102">
+      <category name="com.smeup.asup.p2.site.tool"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.equinox_0.7.0.201506291102.jar" id="org.smeup.sys.ft.equinox" version="0.7.0.201506291102">
+      <category name="com.smeup.asup.p2.site.tool"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.equinox.p2_0.7.0.201506291102.jar" id="org.smeup.sys.ft.equinox.p2" version="0.7.0.201506291102">
+      <category name="com.smeup.asup.p2.site.tool"/>
    </feature>
    <category-def name="com.smeup.asup.p2.site.devk.grammars" label="As.UP DevelopmentKit Grammars"/>
    <category-def name="com.smeup.asup.p2.site.devk.core" label="As.UP DevelopmentKit Core"/>
@@ -100,4 +110,5 @@
    <category-def name="com.smeup.asup.p2.site.oper" label="As.UP Operating System"/>
    <category-def name="com.smeup.asup.p2.site.runt" label="As.UP Runtime"/>
    <category-def name="com.smeup.asup.p2.site.comp" label="As.UP Compiler"/>
+   <category-def name="com.smeup.asup.p2.site.tool" label="External Tool"/>
 </site>
