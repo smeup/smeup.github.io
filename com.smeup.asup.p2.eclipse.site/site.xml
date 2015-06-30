@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201506301727.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201506301727">
+      <category name="Flux"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.dtp_0.7.0.201506301727.jar" id="org.smeup.sys.ft.eclipse.dtp" version="0.7.0.201506301727">
+      <category name="DTP"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.ecf_0.7.0.201506301727.jar" id="org.smeup.sys.ft.eclipse.ecf" version="0.7.0.201506301727">
+      <category name="ECF"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201506301727.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201506301727">
+      <category name="Parser tools"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201506301727.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201506301727">
+      <category name="Parser tools"/>
+   </feature>
+   <category-def name="Flux" label="Plux plugins"/>
+   <category-def name="DTP" label="DTP plugins"/>
+   <category-def name="ECF" label="ECF plugins"/>
+   <category-def name="Parser tools" label="Parser tools plugins"/>
+</site>

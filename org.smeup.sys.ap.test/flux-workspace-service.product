@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?pde version="3.5"?>
+
+<product name="As.UP Test Flux Language" application="org.smeup.sys.rt.core.e4.application" useFeatures="true" includeLaunchers="true">
+
+   <configIni use="default">
+   </configIni>
+
+   <launcherArgs>
+      <programArgs>-console 
+-asupConfig ${resource_loc:/org.smeup.sys.ap.test/applications/flux-workspace-service.xmi}
+      </programArgs>
+      <vmArgs>-Dosgi.console
+-Dosgi.clean
+-Dosgi.requiredJavaVersion=1.7
+
+-Dflux-eclipse-editor-connect=true 
+-Dflux-host=http://MUFS01:3000  
+-Dflux.user.name=defaultuser 
+-Dflux.lazyStart=false 
+-Dflux-initjdt=true
+      </vmArgs>
+      <vmArgsMac>-XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts
+      </vmArgsMac>
+   </launcherArgs>
+
+   <launcher>
+      <solaris/>
+      <win useIco="false">
+         <bmp/>
+      </win>
+   </launcher>
+
+   <vm>
+   </vm>
+
+   <plugins>
+   </plugins>
+
+   <features>
+      <feature id="org.smeup.sys.ft.lang.base"/>
+      <feature id="org.smeup.sys.ft.runt.e4"/>
+      <feature id="org.smeup.sys.ft.devk.base"/>
+      <feature id="org.smeup.sys.ft.devk.e4"/>
+      <feature id="org.smeup.sys.ft.netc.base"/>
+      <feature id="org.smeup.sys.ft.lang.test"/>
+      <feature id="org.smeup.sys.ft.devk.test"/>
+      <feature id="org.smeup.sys.ft.runt.test"/>
+      <feature id="org.smeup.sys.ft.eclipse"/>
+      <feature id="org.smeup.sys.ft.equinox"/>
+      <feature id="org.smeup.sys.ft.equinox.p2"/>
+      <feature id="org.smeup.sys.ft.eclipse.ecf"/>
+      <feature id="org.smeup.sys.ft.netc.flux"/>
+   </features>
+
+
+</product>
