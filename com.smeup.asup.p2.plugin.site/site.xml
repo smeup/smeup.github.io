@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201507042007.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.devk"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.base_0.7.0.201507042007.jar" id="org.smeup.sys.ft.devk.base" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.devk"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.e4_0.7.0.201507042007.jar" id="org.smeup.sys.ft.devk.e4" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.devk"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201507042007.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.devk"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.lang.base_0.7.0.201507042007.jar" id="org.smeup.sys.ft.lang.base" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.lang"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.base_0.7.0.201507042007.jar" id="org.smeup.sys.ft.dbms.base" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.db2_0.7.0.201507042007.jar" id="org.smeup.sys.ft.dbms.db2" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.ibmi_0.7.0.201507042007.jar" id="org.smeup.sys.ft.dbms.ibmi" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.jtds_0.7.0.201507042007.jar" id="org.smeup.sys.ft.dbms.jtds" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.mssql_0.7.0.201507042007.jar" id="org.smeup.sys.ft.dbms.mssql" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.dbms.mysql_0.7.0.201507042007.jar" id="org.smeup.sys.ft.dbms.mysql" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.dbms"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.oper.base_0.7.0.201507042007.jar" id="org.smeup.sys.ft.oper.base" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.oper"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.oper.e4_0.7.0.201507042007.jar" id="org.smeup.sys.ft.oper.e4" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.oper"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.type.base_0.7.0.201507042007.jar" id="org.smeup.sys.ft.type.base" version="0.7.0.201507042007">
+      <category name="com.smeup.asup.p2.plugin.oper"/>
+   </feature>
+   <category-def name="com.smeup.asup.p2.plugin.lang" label="Language"/>
+   <category-def name="com.smeup.asup.p2.plugin.devk" label="Development Kit"/>
+   <category-def name="com.smeup.asup.p2.plugin.dbms" label="Database"/>
+   <category-def name="com.smeup.asup.p2.plugin.oper" label="Operating System"/>
+</site>
