@@ -12,7 +12,7 @@
    <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201507042034.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201507042034">
       <category name="com.smeup.asup.p2.plugin.devk"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.lang.base_0.7.0.201507042034.jar" id="org.smeup.sys.ft.lang.base" version="0.7.0.201507042034">
+   <feature url="features/org.smeup.sys.ft.lang.base_0.7.0.201507042125.jar" id="org.smeup.sys.ft.lang.base" version="0.7.0.201507042125">
       <category name="com.smeup.asup.p2.plugin.lang"/>
    </feature>
    <feature url="features/org.smeup.sys.ft.dbms.base_0.7.0.201507042034.jar" id="org.smeup.sys.ft.dbms.base" version="0.7.0.201507042034">
