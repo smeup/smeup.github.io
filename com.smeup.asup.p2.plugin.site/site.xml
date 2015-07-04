@@ -42,7 +42,14 @@
    <feature url="features/org.smeup.sys.ft.type.base_0.7.0.201507042007.jar" id="org.smeup.sys.ft.type.base" version="0.7.0.201507042007">
       <category name="com.smeup.asup.p2.plugin.oper"/>
    </feature>
+   <feature url="features/com.smeup.erp.ft.runt_0.7.0.201507042026.jar" id="com.smeup.erp.ft.runt" version="0.7.0.201507042026">
+      <category name="com.smeup.asup.p2.plugin.runt"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.runt.e4_0.7.0.201507042026.jar" id="org.smeup.sys.ft.runt.e4" version="0.7.0.201507042026">
+      <category name="com.smeup.asup.p2.plugin.runt"/>
+   </feature>
    <category-def name="com.smeup.asup.p2.plugin.lang" label="Language"/>
+   <category-def name="com.smeup.asup.p2.plugin.runt" label="Runtime"/>
    <category-def name="com.smeup.asup.p2.plugin.devk" label="Development Kit"/>
    <category-def name="com.smeup.asup.p2.plugin.dbms" label="Database"/>
    <category-def name="com.smeup.asup.p2.plugin.oper" label="Operating System"/>
