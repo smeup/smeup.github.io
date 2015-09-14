@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.eclipse.datatools.common.doc.user_1.12.0.v201405281819-26-311A16321A3557.jar" id="org.eclipse.datatools.common.doc.user" version="1.12.0.v201405281819-26-311A16321A3557">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.connectivity.doc.user_1.12.0.v201405281819-37D-7733L3D753L7BBF.jar" id="org.eclipse.datatools.connectivity.doc.user" version="1.12.0.v201405281819-37D-7733L3D753L7BBF">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.connectivity.feature_1.12.0.v201406061321-7C7n9DEsxcwtN5odeWrQrgwYHq8.jar" id="org.eclipse.datatools.connectivity.feature" version="1.12.0.v201406061321-7C7n9DEsxcwtN5odeWrQrgwYHq8">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.connectivity.oda.designer.core.feature_1.12.0.v201406061321-787B7PBgJ9DUBNCVAaSZ.jar" id="org.eclipse.datatools.connectivity.oda.designer.core.feature" version="1.12.0.v201406061321-787B7PBgJ9DUBNCVAaSZ">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.connectivity.oda.designer.feature_1.12.0.v201406061321-4147w312514242925.jar" id="org.eclipse.datatools.connectivity.oda.designer.feature" version="1.12.0.v201406061321-4147w312514242925">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.connectivity.oda.feature_1.12.0.v201406061321-7E7C7YBgJ9ET9OHLDfLZ.jar" id="org.eclipse.datatools.connectivity.oda.feature" version="1.12.0.v201406061321-7E7C7YBgJ9ET9OHLDfLZ">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.doc.user_1.12.0.v201405281819-47C18w95FHAM87EJJD7.jar" id="org.eclipse.datatools.doc.user" version="1.12.0.v201405281819-47C18w95FHAM87EJJD7">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.apache.derby.feature_1.12.0.v201406061321-777B8gBmKFQ3NjRaMjbx8GDI.jar" id="org.eclipse.datatools.enablement.apache.derby.feature" version="1.12.0.v201406061321-777B8gBmKFQ3NjRaMjbx8GDI">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.feature_1.12.0.v201406061321-7J9t0B_0haN-EchrvGIyEh2M8j8a.jar" id="org.eclipse.datatools.enablement.feature" version="1.12.0.v201406061321-7J9t0B_0haN-EchrvGIyEh2M8j8a">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.hsqldb.feature_1.12.0.v201406061321-67G0AqGDM7KfNWJjJS8GDI.jar" id="org.eclipse.datatools.enablement.hsqldb.feature" version="1.12.0.v201406061321-67G0AqGDM7KfNWJjJS8GDI">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.ibm.feature_1.12.0.v201406061321-7G-7cFD3wThz-VTq2cpq3.jar" id="org.eclipse.datatools.enablement.ibm.feature" version="1.12.0.v201406061321-7G-7cFD3wThz-VTq2cpq3">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.ingres.feature_1.12.0.v201406061321-540AkF78Z7UCRAQDB.jar" id="org.eclipse.datatools.enablement.ingres.feature" version="1.12.0.v201406061321-540AkF78Z7UCRAQDB">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.jdbc.feature_1.12.0.v201406061321-4-49oB58B7DAF7FCH.jar" id="org.eclipse.datatools.enablement.jdbc.feature" version="1.12.0.v201406061321-4-49oB58B7DAF7FCH">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.jdt.feature_1.12.0.v201406061321-2-07w312218332612.jar" id="org.eclipse.datatools.enablement.jdt.feature" version="1.12.0.v201406061321-2-07w312218332612">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.msft.feature_1.12.0.v201406061321-5478AkF7AO7UBQAK8M.jar" id="org.eclipse.datatools.enablement.msft.feature" version="1.12.0.v201406061321-5478AkF7AO7UBQAK8M">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.mysql.feature_1.12.0.v201406061321-5478AkF7AK8X9JCREG.jar" id="org.eclipse.datatools.enablement.mysql.feature" version="1.12.0.v201406061321-5478AkF7AK8X9JCREG">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.oda.designer.feature_1.12.0.v201406061321-647L9oB58H5E8E8TBK.jar" id="org.eclipse.datatools.enablement.oda.designer.feature" version="1.12.0.v201406061321-647L9oB58H5E8E8TBK">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.oda.feature_1.12.0.v201406061321-7D7U7OEVVFNSGfJoIz0Of.jar" id="org.eclipse.datatools.enablement.oda.feature" version="1.12.0.v201406061321-7D7U7OEVVFNSGfJoIz0Of">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.oracle.feature_1.12.0.v201406061321-548fAkF7AL7RBJANAI.jar" id="org.eclipse.datatools.enablement.oracle.feature" version="1.12.0.v201406061321-548fAkF7AL7RBJANAI">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.postgresql.feature_1.12.0.v201406061321-553AkF7AK8PCRBQBP.jar" id="org.eclipse.datatools.enablement.postgresql.feature" version="1.12.0.v201406061321-553AkF7AK8PCRBQBP">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.sap.feature_1.12.0.v201406061321-540AkF7AJ7YEJBU7S.jar" id="org.eclipse.datatools.enablement.sap.feature" version="1.12.0.v201406061321-540AkF7AJ7YEJBU7S">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.sdk.feature_1.12.0.v201406061321-7IAB-FE9JgeWjZZhMd-z0vb1ifD4.jar" id="org.eclipse.datatools.enablement.sdk.feature" version="1.12.0.v201406061321-7IAB-FE9JgeWjZZhMd-z0vb1ifD4">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.sqlite.feature_1.12.0.v201406061321-542AkF7AJ7SAKAPBF.jar" id="org.eclipse.datatools.enablement.sqlite.feature" version="1.12.0.v201406061321-542AkF7AJ7SAKAPBF">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.enablement.sybase.feature_1.12.0.v201406061321-7E478F9NiNc2S7fxRCTD.jar" id="org.eclipse.datatools.enablement.sybase.feature" version="1.12.0.v201406061321-7E478F9NiNc2S7fxRCTD">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.intro_1.12.0.v201405281819-26-7w312116392911.jar" id="org.eclipse.datatools.intro" version="1.12.0.v201405281819-26-7w312116392911">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.modelbase.feature_1.12.0.v201406061321-7707GCcNBHLDaKTEcRi.jar" id="org.eclipse.datatools.modelbase.feature" version="1.12.0.v201406061321-7707GCcNBHLDaKTEcRi">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sdk.feature_1.12.0.v201406061321-7PB21FEpPZQXdcX0z-_yMM0Hfz0w.jar" id="org.eclipse.datatools.sdk.feature" version="1.12.0.v201406061321-7PB21FEpPZQXdcX0z-_yMM0Hfz0w">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sqldevtools.data.feature_1.12.0.v201406061321-647ABgJ9EKDJDNAdHO.jar" id="org.eclipse.datatools.sqldevtools.data.feature" version="1.12.0.v201406061321-647ABgJ9EKDJDNAdHO">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sqldevtools.ddl.feature_1.12.0.v201406061321-27B-78B08EG8S_IRVNeUiL6au.jar" id="org.eclipse.datatools.sqldevtools.ddl.feature" version="1.12.0.v201406061321-27B-78B08EG8S_IRVNeUiL6au">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sqldevtools.ddlgen.feature_1.12.0.v201406061321-7A-7DF7RZHQUMdThK5_t.jar" id="org.eclipse.datatools.sqldevtools.ddlgen.feature" version="1.12.0.v201406061321-7A-7DF7RZHQUMdThK5_t">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sqldevtools.feature_1.12.0.v201406061321-7N8P7IFDri6qjCyg6Q61VhVsihvO.jar" id="org.eclipse.datatools.sqldevtools.feature" version="1.12.0.v201406061321-7N8P7IFDri6qjCyg6Q61VhVsihvO">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sqldevtools.parsers.feature_1.12.0.v201406061321-623BgJ9EE9ZJRDZLA.jar" id="org.eclipse.datatools.sqldevtools.parsers.feature" version="1.12.0.v201406061321-623BgJ9EE9ZJRDZLA">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sqldevtools.results.feature_1.12.0.v201406061321-427H9oB58F6A8I5KGJ.jar" id="org.eclipse.datatools.sqldevtools.results.feature" version="1.12.0.v201406061321-427H9oB58F6A8I5KGJ">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sqldevtools.schemaobjecteditor.feature_1.12.0.v201406061321-4218375LG5BJ93413.jar" id="org.eclipse.datatools.sqldevtools.schemaobjecteditor.feature" version="1.12.0.v201406061321-4218375LG5BJ93413">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sqldevtools.sqlbuilder.feature_1.12.0.v201406061321-79-7FEVVFNSI_QiI-Sd.jar" id="org.eclipse.datatools.sqldevtools.sqlbuilder.feature" version="1.12.0.v201406061321-79-7FEVVFNSI_QiI-Sd">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.eclipse.datatools.sqltools.doc.user_1.12.0.v201405281819-37D-7733L3D753L7BBF.jar" id="org.eclipse.datatools.sqltools.doc.user" version="1.12.0.v201405281819-37D-7733L3D753L7BBF">
+      <category name="DTP 1.12"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201509101129.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201509101129">
+      <category name="Flux"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201509101129.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201509101129">
+      <category name="Parser tools"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201509101129.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201509101129">
+      <category name="Parser tools"/>
+   </feature>
+   <feature url="features/org.eclipse.ajdt_2.2.4.e45x-20150610-1700.jar" id="org.eclipse.ajdt" version="2.2.4.e45x-20150610-1700">
+      <category name="AJDT"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.console.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.console.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.console.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.console.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.core_3.10.1.v20150810-1719.jar" id="org.eclipse.ecf.core" version="3.10.1.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.core.feature_1.1.0.v20150810-1719.jar" id="org.eclipse.ecf.core.feature" version="1.1.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.core.source_3.10.1.v20150810-1719.jar" id="org.eclipse.ecf.core.source" version="3.10.1.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.core.source.feature_1.1.0.v20150512-1727.jar" id="org.eclipse.ecf.core.source.feature" version="1.1.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.core.ssl.feature_1.0.0.v20150512-1727.jar" id="org.eclipse.ecf.core.ssl.feature" version="1.0.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.core.ssl.source.feature_1.0.0.v20150512-1727.jar" id="org.eclipse.ecf.core.ssl.source.feature" version="1.0.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.datashare.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.datashare.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.datashare.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.datashare.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.dnssd.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.dnssd.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.dnssd.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.dnssd.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.jmdns.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.jmdns.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.jmdns.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.jmdns.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.slp.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.slp.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.slp.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.slp.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.zookeeper.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.zookeeper.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.discovery.zookeeper.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.discovery.zookeeper.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.docshare.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.docshare.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.docshare.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.docshare.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.eventadmin.examples.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.eventadmin.examples.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.eventadmin.examples.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.eventadmin.examples.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.eventadmin.feature_2.0.0.v20150810-1719.jar" id="org.eclipse.ecf.eventadmin.feature" version="2.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.eventadmin.source.feature_2.0.0.v20150810-1719.jar" id="org.eclipse.ecf.eventadmin.source.feature" version="2.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.filetransfer.feature_3.10.1.v20150810-1719.jar" id="org.eclipse.ecf.filetransfer.feature" version="3.10.1.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.10.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.httpclient4.feature" version="3.10.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.source.feature_3.10.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.httpclient4.source.feature" version="3.10.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.0.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" version="1.0.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.source.feature_1.0.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.httpclient4.ssl.source.feature" version="1.0.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.filetransfer.source.feature_3.10.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.source.feature" version="3.10.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.0.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.0.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.filetransfer.ssl.source.feature_1.0.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.ssl.source.feature" version="1.0.0.v20150512-1727">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.osgi.services.feature_2.0.1.v20150810-1719.jar" id="org.eclipse.ecf.osgi.services.feature" version="2.0.1.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.osgi.services.source.feature_2.0.1.v20150810-1719.jar" id="org.eclipse.ecf.osgi.services.source.feature" version="2.0.1.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.presence.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.presence.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.presence.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.presence.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.provider.generic.datashare.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.provider.generic.datashare.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.provider.generic.datashare.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.provider.generic.datashare.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.provider.generic.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.provider.generic.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.provider.generic.remoteservice.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.provider.generic.remoteservice.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.provider.generic.remoteservice.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.provider.generic.remoteservice.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.provider.generic.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.provider.generic.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.examples.feature_1.3.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.examples.feature" version="1.3.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.examples.source.feature_1.3.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.examples.source.feature" version="1.3.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.feature_2.1.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.feature" version="2.1.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.rest.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.rest.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.rest.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.rest.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.rest.synd.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.rest.synd.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.rest.synd.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.rest.synd.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.rosgi.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.rosgi.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.rosgi.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.rosgi.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.sdk.examples.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.sdk.examples.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.sdk.examples.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.sdk.examples.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.sdk.feature_3.10.1.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.sdk.feature" version="3.10.1.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.sdk.source.feature_3.10.1.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.sdk.source.feature" version="3.10.1.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.servlet.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.servlet.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.servlet.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.servlet.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.soap.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.soap.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.soap.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.soap.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.remoteservice.source.feature_2.1.0.v20150810-1719.jar" id="org.eclipse.ecf.remoteservice.source.feature" version="2.1.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.server.generic.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.server.generic.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.server.generic.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.server.generic.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.sharedobject.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.sharedobject.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.sharedobject.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.sharedobject.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.xmpp.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.xmpp.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.ecf.xmpp.source.feature_1.0.0.v20150810-1719.jar" id="org.eclipse.ecf.xmpp.source.feature" version="1.0.0.v20150810-1719">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.equinox.p2.core.feature_1.3.100.v20150527-1706.jar" id="org.eclipse.equinox.p2.core.feature" version="1.3.100.v20150527-1706">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.equinox.p2.core.feature.source_1.3.100.v20150527-1706.jar" id="org.eclipse.equinox.p2.core.feature.source" version="1.3.100.v20150527-1706">
+      <category name="ECF 3.10.1"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.db" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.derby_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.derby" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.doc_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.doc" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.doc.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.doc.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.h2_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.h2" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.h2.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.h2.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.hsqldb_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.hsqldb" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.hsqldb.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.hsqldb.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.mysql_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.mysql" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.mysql.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.mysql.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.oracle_1.1.100.v20150610-1925.jar" id="org.eclipse.net4j.db.oracle" version="1.1.100.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.postgresql_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.postgresql" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.postgresql.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.db.postgresql.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.db.source_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.db.source" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.defs_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.defs" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.defs.source_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.defs.source" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.doc_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.doc" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.doc.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.doc.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.examples.installer_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.examples.installer" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.examples.installer.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.examples.installer.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.sdk_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.sdk" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.sdk.source_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.sdk.source" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.source_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.source" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.tests_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.tests" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.tests.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.tests.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.ui_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.ui" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.ui.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.ui.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.util_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.util" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.util.doc_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.util.doc" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.util.doc.source_4.2.200.v20150610-1925.jar" id="org.eclipse.net4j.util.doc.source" version="4.2.200.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.util.source_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.util.source" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.util.ui_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.util.ui" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <feature url="features/org.eclipse.net4j.util.ui.source_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.util.ui.source" version="4.4.0.v20150610-1925">
+      <category name="Net4J"/>
+   </feature>
+   <category-def name="ECF 3.10.1" label="ECF Plugin"/>
+   <category-def name="DTP 1.12" label="DTP Plugin"/>
+   <category-def name="Flux" label="Flux plugin"/>
+   <category-def name="Parser tools" label="Parser tools for As.UP"/>
+   <category-def name="AJDT" label="AJDT Eclipse plugins"/>
+   <category-def name="Net4J" label="Net4J Eclipse plugins"/>
+</site>
