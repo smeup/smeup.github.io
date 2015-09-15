@@ -108,14 +108,14 @@
    <feature url="features/org.eclipse.datatools.sqltools.doc.user_1.12.0.v201405281819-37D-7733L3D753L7BBF.jar" id="org.eclipse.datatools.sqltools.doc.user" version="1.12.0.v201405281819-37D-7733L3D753L7BBF">
       <category name="DTP 1.12"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201509141758.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201509141758">
+   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201509151234.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201509151234">
       <category name="Flux"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201509141758.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201509141758">
-      <category name="Parser tools"/>
+   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201509151234.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201509151234">
+      <category name="As.UP Parser tools"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201509141758.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201509141758">
-      <category name="Parser tools"/>
+   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201509151234.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201509151234">
+      <category name="As.UP Parser tools"/>
    </feature>
    <feature url="features/org.eclipse.ajdt_2.2.4.e45x-20150610-1700.jar" id="org.eclipse.ajdt" version="2.2.4.e45x-20150610-1700">
       <category name="AJDT"/>
@@ -432,10 +432,14 @@
    <feature url="features/org.eclipse.net4j.util.ui.source_4.4.0.v20150610-1925.jar" id="org.eclipse.net4j.util.ui.source" version="4.4.0.v20150610-1925">
       <category name="Net4J"/>
    </feature>
+   <feature url="features/org.smeup.sys.ft.devk.emf_0.7.0.201509151234.jar" id="org.smeup.sys.ft.devk.emf" version="0.7.0.201509151234">
+      <category name="As.UP EMF tools"/>
+   </feature>
    <category-def name="ECF 3.10.1" label="ECF Plugin"/>
    <category-def name="DTP 1.12" label="DTP Plugin"/>
    <category-def name="Flux" label="Flux plugin"/>
-   <category-def name="Parser tools" label="Parser tools for As.UP"/>
+   <category-def name="As.UP Parser tools" label="Parser tools for As.UP"/>
    <category-def name="AJDT" label="AJDT Eclipse plugins"/>
    <category-def name="Net4J" label="Net4J Eclipse plugins"/>
+   <category-def name="As.UP EMF tools" label="As.UP EMF tools"/>
 </site>
