@@ -441,6 +441,9 @@
    <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201509280956.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201509280956">
       <category name="As.UP Parser tools"/>
    </feature>
+   <feature url="features/org.jvmmonitor_3.8.1.201302030008.jar" id="org.jvmmonitor" version="3.8.1.201302030008">
+      <category name="JVM Monitor 3.8.1"/>
+   </feature>
    <category-def name="DTP 1.12" label="DTP Plugin"/>
    <category-def name="Flux" label="Flux plugin"/>
    <category-def name="As.UP Parser tools" label="Parser tools for As.UP"/>
@@ -448,4 +451,5 @@
    <category-def name="Net4J" label="Net4J Eclipse plugins"/>
    <category-def name="CDO" label="CDO plugins"/>
    <category-def name="ECF 3.11.0" label="Eclipse ECF Plugin"/>
+   <category-def name="JVM Monitor 3.8.1" label="JVM Monitor plugins"/>
 </site>
