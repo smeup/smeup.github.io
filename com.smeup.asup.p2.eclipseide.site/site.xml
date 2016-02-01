@@ -216,236 +216,218 @@
    <feature url="features/org.eclipse.emf.cdo.server.mongodb_4.2.200.v20150610-1925.jar" id="org.eclipse.emf.cdo.server.mongodb" version="4.2.200.v20150610-1925">
       <category name="CDO"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201509280956.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201509280956">
-      <category name="Flux"/>
+   <feature url="features/org.eclipse.ecf.console.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.console.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201509280956.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201509280956">
-      <category name="As.UP Parser tools"/>
+   <feature url="features/org.eclipse.ecf.console.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.console.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201509280956.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201509280956">
-      <category name="As.UP Parser tools"/>
+   <feature url="features/org.eclipse.ecf.core_3.12.1.v20160114-0324.jar" id="org.eclipse.ecf.core" version="3.12.1.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.jvmmonitor_3.8.1.201302030008.jar" id="org.jvmmonitor" version="3.8.1.201302030008">
-      <category name="JVM Monitor 3.8.1"/>
-   </feature>
-   <feature url="features/org.eclipse.ecf.console.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.console.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
-   </feature>
-   <feature url="features/org.eclipse.ecf.console.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.console.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
-   </feature>
-   <feature url="features/org.eclipse.ecf.core_3.12.0.v20151130-0157.jar" id="org.eclipse.ecf.core" version="3.12.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
-   </feature>
-   <feature url="features/org.eclipse.ecf.core.feature_1.2.0.v20151130-0157.jar" id="org.eclipse.ecf.core.feature" version="1.2.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
-   </feature>
-   <feature url="features/org.eclipse.ecf.core.source_3.12.0.v20151130-0157.jar" id="org.eclipse.ecf.core.source" version="3.12.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.core.feature_1.2.0.v20160114-0324.jar" id="org.eclipse.ecf.core.feature" version="1.2.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.core.source.feature_1.1.0.v20150512-1727.jar" id="org.eclipse.ecf.core.source.feature" version="1.1.0.v20150512-1727">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.core.ssl.feature_1.0.0.v20150925-2135.jar" id="org.eclipse.ecf.core.ssl.feature" version="1.0.0.v20150925-2135">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.core.ssl.source.feature_1.0.0.v20150512-1727.jar" id="org.eclipse.ecf.core.ssl.source.feature" version="1.0.0.v20150512-1727">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.datashare.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.datashare.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.datashare.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.datashare.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.datashare.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.datashare.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.datashare.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.datashare.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.dnssd.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.dnssd.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.dnssd.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.dnssd.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.dnssd.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.dnssd.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.dnssd.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.dnssd.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.jmdns.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.jmdns.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.jmdns.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.jmdns.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.jmdns.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.jmdns.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.jmdns.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.jmdns.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.slp.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.slp.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.slp.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.slp.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.slp.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.slp.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.slp.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.slp.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.zookeeper.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.zookeeper.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.zookeeper.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.zookeeper.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.discovery.zookeeper.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.discovery.zookeeper.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.discovery.zookeeper.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.discovery.zookeeper.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.docshare.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.docshare.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.docshare.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.docshare.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.docshare.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.docshare.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.eventadmin.examples.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.eventadmin.examples.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.eventadmin.examples.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.eventadmin.examples.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.eventadmin.feature_2.0.0.v20160114-0324.jar" id="org.eclipse.ecf.eventadmin.feature" version="2.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.eventadmin.examples.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.eventadmin.examples.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.eventadmin.source.feature_2.0.0.v20160114-0324.jar" id="org.eclipse.ecf.eventadmin.source.feature" version="2.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.eventadmin.feature_2.0.0.v20151130-0157.jar" id="org.eclipse.ecf.eventadmin.feature" version="2.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
-   </feature>
-   <feature url="features/org.eclipse.ecf.eventadmin.source.feature_2.0.0.v20151130-0157.jar" id="org.eclipse.ecf.eventadmin.source.feature" version="2.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
-   </feature>
-   <feature url="features/org.eclipse.ecf.filetransfer.feature_3.12.0.v20151130-0157.jar" id="org.eclipse.ecf.filetransfer.feature" version="3.12.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.filetransfer.feature_3.12.1.v20160114-0324.jar" id="org.eclipse.ecf.filetransfer.feature" version="3.12.1.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.11.0.v20150925-2135.jar" id="org.eclipse.ecf.filetransfer.httpclient4.feature" version="3.11.0.v20150925-2135">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.source.feature_3.10.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.httpclient4.source.feature" version="3.10.0.v20150512-1727">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.0.0.v20150925-2135.jar" id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" version="1.0.0.v20150925-2135">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.source.feature_1.0.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.httpclient4.ssl.source.feature" version="1.0.0.v20150512-1727">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.filetransfer.source.feature_3.10.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.source.feature" version="3.10.0.v20150512-1727">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.0.0.v20150925-2135.jar" id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.0.0.v20150925-2135">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.ecf.filetransfer.ssl.source.feature_1.0.0.v20150512-1727.jar" id="org.eclipse.ecf.filetransfer.ssl.source.feature" version="1.0.0.v20150512-1727">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.osgi.services.feature_2.0.1.v20151130-0157.jar" id="org.eclipse.ecf.osgi.services.feature" version="2.0.1.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.osgi.services.feature_2.0.1.v20160114-0324.jar" id="org.eclipse.ecf.osgi.services.feature" version="2.0.1.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.osgi.services.source.feature_2.0.1.v20151130-0157.jar" id="org.eclipse.ecf.osgi.services.source.feature" version="2.0.1.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.osgi.services.source.feature_2.0.1.v20160114-0324.jar" id="org.eclipse.ecf.osgi.services.source.feature" version="2.0.1.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.presence.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.presence.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.presence.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.presence.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.presence.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.presence.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.presence.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.presence.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.provider.generic.datashare.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.provider.generic.datashare.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.provider.generic.datashare.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.provider.generic.datashare.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.provider.generic.datashare.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.provider.generic.datashare.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.provider.generic.datashare.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.provider.generic.datashare.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.provider.generic.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.provider.generic.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.provider.generic.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.provider.generic.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.provider.generic.remoteservice.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.provider.generic.remoteservice.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.provider.generic.remoteservice.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.provider.generic.remoteservice.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.provider.generic.remoteservice.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.provider.generic.remoteservice.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.provider.generic.remoteservice.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.provider.generic.remoteservice.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.provider.generic.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.provider.generic.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.provider.generic.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.provider.generic.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.examples.feature_1.3.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.examples.feature" version="1.3.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.examples.feature_1.3.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.examples.feature" version="1.3.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.examples.source.feature_1.3.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.examples.source.feature" version="1.3.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.feature_2.1.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.feature" version="2.1.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.feature_2.1.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.feature" version="2.1.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.rest.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.rest.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.rest.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.rest.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.rest.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.rest.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.rest.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.rest.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.rest.synd.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.rest.synd.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.rest.synd.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.rest.synd.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.rest.synd.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.rest.synd.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.rest.synd.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.rest.synd.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.rosgi.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.rosgi.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.rosgi.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.rosgi.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.rosgi.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.rosgi.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.rosgi.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.rosgi.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.sdk.examples.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.sdk.examples.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.sdk.examples.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.sdk.examples.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.sdk.feature_3.12.1.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.sdk.feature" version="3.12.1.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.sdk.examples.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.sdk.examples.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.sdk.source.feature_3.12.1.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.sdk.source.feature" version="3.12.1.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.sdk.feature_3.12.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.sdk.feature" version="3.12.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.servlet.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.servlet.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.sdk.source.feature_3.12.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.sdk.source.feature" version="3.12.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.servlet.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.servlet.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.servlet.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.servlet.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.soap.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.soap.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.servlet.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.servlet.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.soap.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.soap.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.soap.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.soap.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.remoteservice.source.feature_2.1.0.v20160114-0324.jar" id="org.eclipse.ecf.remoteservice.source.feature" version="2.1.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.soap.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.soap.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.server.generic.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.server.generic.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.remoteservice.source.feature_2.1.0.v20151130-0157.jar" id="org.eclipse.ecf.remoteservice.source.feature" version="2.1.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.server.generic.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.server.generic.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.server.generic.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.server.generic.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.sharedobject.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.sharedobject.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.server.generic.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.server.generic.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.sharedobject.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.sharedobject.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.sharedobject.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.sharedobject.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.xmpp.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.xmpp.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.eclipse.ecf.sharedobject.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.sharedobject.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
-   </feature>
-   <feature url="features/org.eclipse.ecf.xmpp.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.xmpp.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
-   </feature>
-   <feature url="features/org.eclipse.ecf.xmpp.source.feature_1.0.0.v20151130-0157.jar" id="org.eclipse.ecf.xmpp.source.feature" version="1.0.0.v20151130-0157">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.eclipse.ecf.xmpp.source.feature_1.0.0.v20160114-0324.jar" id="org.eclipse.ecf.xmpp.source.feature" version="1.0.0.v20160114-0324">
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.equinox.p2.core.feature_1.3.100.v20150527-1706.jar" id="org.eclipse.equinox.p2.core.feature" version="1.3.100.v20150527-1706">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.equinox.p2.core.feature.source_1.3.100.v20150527-1706.jar" id="org.eclipse.equinox.p2.core.feature.source" version="1.3.100.v20150527-1706">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
    <feature url="features/org.eclipse.equinox.server.p2_1.2.200.v20150527-1706.jar" id="org.eclipse.equinox.server.p2" version="1.2.200.v20150527-1706">
-      <category name="ECF 3.12.0"/>
+      <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.ecf_0.7.0.201601080917.jar" id="org.smeup.sys.ft.eclipse.ecf" version="0.7.0.201601080917">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201602011658.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201602011658">
+      <category name="Flux"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.equinox.p2_0.7.0.201601080917.jar" id="org.smeup.sys.ft.equinox.p2" version="0.7.0.201601080917">
-      <category name="ECF 3.12.0"/>
+   <feature url="features/org.smeup.sys.ft.netc.flux_0.7.0.201602011658.jar" id="org.smeup.sys.ft.netc.flux" version="0.7.0.201602011658">
+      <category name="Flux"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.type.flux_0.7.0.201602011658.jar" id="org.smeup.sys.ft.type.flux" version="0.7.0.201602011658">
+      <category name="Flux"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201602011658.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201602011658">
+      <category name="As.UP Parser tools"/>
+   </feature>
+   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201602011658.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201602011658">
+      <category name="As.UP Parser tools"/>
    </feature>
    <category-def name="DTP 1.12" label="DTP Plugin"/>
    <category-def name="Flux" label="Flux plugin"/>
@@ -453,6 +435,5 @@
    <category-def name="AJDT" label="AJDT Eclipse plugins"/>
    <category-def name="Net4J" label="Net4J Eclipse plugins"/>
    <category-def name="CDO" label="CDO plugins"/>
-   <category-def name="ECF 3.12.0" label="Eclipse ECF Plugin"/>
-   <category-def name="JVM Monitor 3.8.1" label="JVM Monitor plugins"/>
+   <category-def name="ECF 3.12.1" label="Eclipse ECF Plugin"/>
 </site>
