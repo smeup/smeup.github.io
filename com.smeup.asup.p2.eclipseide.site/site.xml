@@ -414,19 +414,13 @@
    <feature url="features/org.eclipse.equinox.server.p2_1.2.200.v20150527-1706.jar" id="org.eclipse.equinox.server.p2" version="1.2.200.v20150527-1706">
       <category name="ECF 3.12.1"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201602011720.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201602011720">
+   <feature url="features/org.smeup.sys.ft.eclipse.flux_0.7.0.201602020909.jar" id="org.smeup.sys.ft.eclipse.flux" version="0.7.0.201602020909">
       <category name="Flux"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.netc.flux_0.7.0.201602011720.jar" id="org.smeup.sys.ft.netc.flux" version="0.7.0.201602011720">
-      <category name="Flux"/>
-   </feature>
-   <feature url="features/org.smeup.sys.ft.type.flux_0.7.0.201602011720.jar" id="org.smeup.sys.ft.type.flux" version="0.7.0.201602011720">
-      <category name="Flux"/>
-   </feature>
-   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201602011720.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201602011720">
+   <feature url="features/org.smeup.sys.ft.devk.antlr_0.7.0.201602020909.jar" id="org.smeup.sys.ft.devk.antlr" version="0.7.0.201602020909">
       <category name="As.UP Parser tools"/>
    </feature>
-   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201602011720.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201602011720">
+   <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201602020909.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201602020909">
       <category name="As.UP Parser tools"/>
    </feature>
    <category-def name="DTP 1.12" label="DTP Plugin"/>
