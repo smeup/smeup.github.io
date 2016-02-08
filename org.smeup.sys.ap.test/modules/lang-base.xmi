@@ -13,13 +13,13 @@
   <services className="org.smeup.sys.il.data.nio.NIODataManagerImpl" interfaceName="org.smeup.sys.il.data.QDataManager"/>
   <services className="org.smeup.sys.il.expr.base.BaseExpressionParserRegistryImpl" interfaceName="org.smeup.sys.il.expr.QExpressionParserRegistry">
     <services className="org.smeup.sys.il.expr.ibmi.rpg.RPGExpressionParserImpl" interfaceName="org.smeup.sys.il.expr.QExpressionParser">
-      <facets xsi:type="rt-core:Plugin" name="RPG" text="RPG Expression Parser" version="0.7.0" vendor="www.smeup.com"/>
+      <facets xsi:type="rt-core:Plugin" name="RPG" text="RPG Expression Parser" version="0.8.0" vendor="www.smeup.com"/>
     </services>
     <services className="org.smeup.sys.il.expr.ibmi.cl.CLExpressionParserImpl" interfaceName="org.smeup.sys.il.expr.QExpressionParser">
-      <facets xsi:type="rt-core:Plugin" name="ASUP" text="As.UP Expression Parser" version="0.7.0" vendor="www.smeup.com"/>
+      <facets xsi:type="rt-core:Plugin" name="ASUP" text="As.UP Expression Parser" version="0.8.0" vendor="www.smeup.com"/>
     </services>
     <services className="org.smeup.sys.il.expr.ibmi.cl.CLExpressionParserImpl" interfaceName="org.smeup.sys.il.expr.QExpressionParser">
-      <facets xsi:type="rt-core:Plugin" name="CL" text="CL Expression Parser" version="0.7.0" vendor="www.smeup.com"/>
+      <facets xsi:type="rt-core:Plugin" name="CL" text="CL Expression Parser" version="0.8.0" vendor="www.smeup.com"/>
     </services>
   </services>
 </rt-core:ApplicationModule>
