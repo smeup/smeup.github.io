@@ -5,10 +5,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:co-core="http://www.smeup.org/asup/co/core"
     xmlns:db-core="http://www.smeup.org/asup/db/core"
-    xmlns:mu-impo="http://www.smeup.com/erp/mu/impo"
+    xmlns:mu-conv="http://www.smeup.com/erp/mu/conv"
     xmlns:os-type="http://www.smeup.org/asup/os/type"
     xmlns:rt-core="http://www.smeup.org/asup/rt/core"
-    xsi:schemaLocation="http://www.smeup.org/asup/co/core ../../org.smeup.sys.co.core/model/co-core.ecore http://www.smeup.org/asup/db/core ../../org.smeup.sys.db.core/model/db-core.ecore http://www.smeup.com/erp/mu/impo ../../com.smeup.erp.mu.impo/model/mu-impo.ecore http://www.smeup.org/asup/os/type ../../org.smeup.sys.os.type/model/os-type.ecore http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore"
+    xsi:schemaLocation="http://www.smeup.org/asup/co/core ../../org.smeup.sys.co.core/model/co-core.ecore http://www.smeup.org/asup/db/core ../../org.smeup.sys.db.core/model/db-core.ecore http://www.smeup.com/erp/mu/conv ../../com.smeup.erp.mu.conv/model/mu-conv.ecore http://www.smeup.org/asup/os/type ../../org.smeup.sys.os.type/model/os-type.ecore http://www.smeup.org/asup/rt/core ../../org.smeup.sys.rt.core/model/rt-core.ecore"
     name="SRVLAB"
     port="1"
     text="As.UP srvlab01.smeup.com">
@@ -527,7 +527,8 @@
           interfaceName="org.smeup.sys.co.shell.QShellManager"/>
       <services
           className="org.smeup.sys.co.shell.base.BaseShellOutputWrapperImpl"
-          interfaceName="org.smeup.sys.co.shell.QShellOutputWrapper"/>
+          interfaceName="org.smeup.sys.co.shell.QShellOutputWrapper"
+          remoteExport="true"/>
       <services
           className="org.smeup.sys.co.shell.base.BaseShellObjectWriterFactoryImpl"
           interfaceName="org.smeup.sys.il.core.out.QObjectWriterFactory">
@@ -557,7 +558,7 @@
   <components
       name="Sme.UP">
     <configs
-        xsi:type="mu-impo:IBMiConnectionConfig"
+        xsi:type="mu-conv:IBMiConnectionConfig"
         address="srvlab01.smeup.com"
         program="/QSYS.LIB/P_MULT.LIB/MUMUC0C.PGM"
         environment="MULT">
@@ -590,8 +591,8 @@
     <modules
         name="mu.conv">
       <services
-          className="com.smeup.erp.mu.impo.base.MUConversionService"
-          interfaceName="com.smeup.erp.mu.impo.base.MUConversionService"/>
+          className="com.smeup.erp.mu.conv.base.MUConversionService"
+          interfaceName="com.smeup.erp.mu.conv.base.MUConversionService"/>
       <services
           className="com.smeup.erp.mu.conv.service.RPGUnitConverterImpl"
           interfaceName="org.smeup.sys.dk.compiler.QUnitConverter">
@@ -602,7 +603,7 @@
             version="0.8.0"/>
       </services>
       <services
-          className="com.smeup.erp.mu.impo.base.MUAuthenticationManagerImpl"
+          className="com.smeup.erp.mu.conv.base.MUAuthenticationManagerImpl"
           interfaceName="org.smeup.sys.rt.auth.QAuthenticationManager"/>
     </modules>
     <modules
