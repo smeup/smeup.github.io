@@ -423,6 +423,9 @@
    <feature url="features/org.smeup.sys.ft.devk.lpg_0.7.0.201602020909.jar" id="org.smeup.sys.ft.devk.lpg" version="0.7.0.201602020909">
       <category name="As.UP Parser tools"/>
    </feature>
+   <feature url="features/org.smeup.sys.ft.devk.inject_0.8.0.201605031719.jar" id="org.smeup.sys.ft.devk.inject" version="0.8.0.201605031719">
+      <category name="Java Inject"/>
+   </feature>
    <category-def name="DTP 1.12" label="DTP Plugin"/>
    <category-def name="Flux" label="Flux plugin"/>
    <category-def name="As.UP Parser tools" label="Parser tools for As.UP"/>
@@ -430,4 +433,5 @@
    <category-def name="Net4J" label="Net4J Eclipse plugins"/>
    <category-def name="CDO" label="CDO plugins"/>
    <category-def name="ECF 3.12.1" label="Eclipse ECF Plugin"/>
+   <category-def name="Java Inject" label="Java injection support"/>
 </site>
