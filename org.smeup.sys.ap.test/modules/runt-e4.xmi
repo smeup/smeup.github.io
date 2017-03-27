@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="ASCII"?>
-<rt-core:ApplicationModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:rt-core="http://www.smeup.org/asup/rt/core" name="runt.e4">
-  <services className="org.smeup.sys.rt.repo.e4.E4RepositoryManagerImpl" interfaceName="org.smeup.sys.rt.repo.QRepositoryManager"/>
-  <services className="org.smeup.sys.rt.core.e4.E4LoggerImpl" interfaceName="org.smeup.sys.rt.core.QLogger"/>
-</rt-core:ApplicationModule>

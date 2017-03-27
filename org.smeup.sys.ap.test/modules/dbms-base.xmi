@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="ASCII"?>
-<rt-core:ApplicationModule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:rt-core="http://www.smeup.org/asup/rt/core" name="dbms.base">
-  <services className="org.smeup.sys.il.esam.jdbc.JDBCAccessManagerImpl" interfaceName="org.smeup.sys.il.esam.QAccessManager"/>
-</rt-core:ApplicationModule>
